@@ -6,3 +6,4 @@
 4. CRUD in JSON Files With Dynamic API Testing in Express JS
 5. CRUD in JSON Files with MVC Architecture with Dynamic API Testing in Express JS
 6. CRUD in Express JS with MongoDB 
+7. CRUD performed on User in Express JS with Authentication with MongoDB 
